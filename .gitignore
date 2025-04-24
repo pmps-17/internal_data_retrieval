@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+
+# Mac system files
+.DS_Store
+
+# Chroma DB on-disk folder (if you’re persisting locally)
+chroma_db/
+
+# Environment files
+.env
+.env.*.local
+
