@@ -1,0 +1,12 @@
+**Q3 2024 Financial Highlights**
+
+- **Revenue:** $125M (↑ 8% QoQ)
+- **Net Profit:** $20M (↑ 12% QoQ)
+- **Operating Expenses:** $85M (↑ 5% QoQ)
+- **Key Drivers:**
+  - Strong SaaS subscription growth in EMEA region.
+  - Cost optimization in data center operations.
+  - One-time integration expense for the Acme AI acquisition.
+
+**Outlook:**
+We project Q4 revenue between $130M–$135M, driven by holiday season demand and new product launches.

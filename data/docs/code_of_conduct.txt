@@ -1,0 +1,21 @@
+# Acme Corp Code of Conduct
+
+1. **Respect & Inclusion**
+   - Treat everyone with dignity regardless of role or background.
+   - Embrace diversity of thought and culture.
+
+2. **Integrity & Ethics**
+   - Always act honestly and transparently.
+   - Avoid conflicts of interest; disclose them immediately.
+
+3. **Professionalism**
+   - Communicate responsibly, both in person and online.
+   - Respect confidential information and intellectual property.
+
+4. **Accountability**
+   - Own your mistakes; learn and improve.
+   - Give and accept constructive feedback.
+
+5. **Compliance**
+   - Follow all local, state, and federal laws.
+   - Adhere to company policies and procedures.

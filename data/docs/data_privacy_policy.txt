@@ -1,0 +1,21 @@
+# Data Privacy & Protection Policy
+
+1. **Data Collection**
+   - We collect only the data necessary to provide services.
+   - Personal data is stored encrypted at rest.
+
+2. **Access Controls**
+   - Role-based access for all internal systems.
+   - Quarterly audits of user permissions.
+
+3. **Data Sharing**
+   - No sharing with third parties without explicit consent.
+   - Anonymized data sets permitted for analytics.
+
+4. **Retention & Deletion**
+   - Retain user data for up to 5 years.
+   - Upon request, we delete personal data within 30 days.
+
+5. **Incident Response**
+   - Report breaches to CISO within 1 hour.
+   - Notify affected users within 72 hours per GDPR.

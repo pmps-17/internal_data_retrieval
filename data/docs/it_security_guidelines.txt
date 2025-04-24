@@ -1,0 +1,15 @@
+# IT Security Guidelines
+
+1. **Password Management**
+   - Use a company-approved password manager (1Password).
+   - Minimum length: 12 characters; use uppercase, lowercase, numbers, symbols.
+
+2. **Device Security**
+   - All laptops must have disk encryption enabled.
+   - Install the corporate VPN client when working off-site.
+   - Report lost or stolen devices within 2 hours.
+
+3. **Phishing Awareness**
+   - Never click unexpected email links.
+   - Verify sender domain; look for typos or impersonation.
+   - Forward suspicious emails to phishing@acmecorp.com.

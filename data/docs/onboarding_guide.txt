@@ -1,0 +1,17 @@
+Welcome to Acme Corp! This onboarding guide will help new hires get up to speed:
+
+1. **Account Setup**
+   - Request your AD credentials via the IT portal.
+   - Enable MFA using the Duo Mobile app.
+
+2. **First-Week Training**
+   - Day 1: Company history & values.
+   - Day 2: Product overview & demo.
+   - Day 3: Team meet-and-greets.
+   - Day 4: Tools & workflows (Jira, Confluence, Git).
+   - Day 5: Capstone mini-project.
+
+3. **Key Contacts**
+   - HR: hr@acmecorp.com
+   - IT Support: itsupport@acmecorp.com
+   - Your Manager: [manager_email]

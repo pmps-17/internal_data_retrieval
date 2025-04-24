@@ -1,0 +1,53 @@
+Onboarding & HR
+
+“What’s the process for setting up my AD credentials?”
+
+“Who do I contact for IT support during my first week?”
+
+
+
+Time Off & Benefits
+
+“How many PTO days can I carry over to next year?”
+
+“What gym reimbursement do we get?”
+
+
+
+Policies & Conduct
+
+“What are our password requirements?”
+
+“Where can I find the code of conduct?”
+
+
+
+Work Arrangement
+
+“Am I eligible for remote work?”
+
+“What are the core hours for remote employees?”
+
+
+
+Financials & Reporting
+
+“What was our Q3 2024 revenue?”
+
+“How do I run the migration for v2.5?”
+
+
+
+Security & Compliance
+
+“What’s the procedure if my laptop is stolen?”
+
+“How soon do we report a data breach?”
+
+
+
+Product & Releases
+
+“What new features shipped in version 2.5?”
+
+“How do I back up the database before upgrade?”

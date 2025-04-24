@@ -1,0 +1,20 @@
+# Product Release Notes – Version 2.5
+
+**New Features**
+- Added AI-powered recommendations on the dashboard.
+- Integrated single sign-on (SSO) via Okta.
+
+**Improvements**
+- Reduced page load time by 30%.
+- Enhanced mobile responsiveness for forms.
+
+**Bug Fixes**
+- Fixed email notification duplication issue.
+- Resolved crash when exporting large CSVs.
+- Corrected minor typos in user settings page.
+
+**Upgrade Instructions**
+1. Backup your database.
+2. Run `migrate_v2_5.sh`.
+3. Restart application servers.
+4. Verify logs for errors.

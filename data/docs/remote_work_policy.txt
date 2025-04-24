@@ -1,0 +1,21 @@
+**Remote Work Policy**
+
+- **Eligibility**
+  - Full-time employees with 6+ months tenure.
+  - Manager approval required.
+
+- **Work Hours**
+  - Core hours: 10 AM–4 PM local time.
+  - Flexible start/end times outside core hours.
+
+- **Equipment**
+  - Company laptop and monitor provided.
+  - Home office stipend of $100/month for internet.
+
+- **Communication**
+  - Daily standup via Zoom at 9 AM.
+  - Use Slack for quick questions; Teams for meetings.
+
+- **Security**
+  - Always connect via corporate VPN.
+  - Lock screen when away; follow IT security guidelines.

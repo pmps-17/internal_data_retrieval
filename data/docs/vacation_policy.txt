@@ -1,0 +1,9 @@
+**Acme Corp Vacation Policy**
+
+- **Eligibility:** All full-time employees accrue 1.25 days of PTO per month.
+- **Carryover:** You may carry over up to 5 days into the next calendar year.
+- **Blackout Dates:** PTO requests are not approved during end-of-quarter reporting weeks.
+- **Request Process:**
+  1. Submit a “Time Off” request in Workday at least 2 weeks in advance.
+  2. Manager approval required.
+  3. HR will confirm and update your leave balance.
